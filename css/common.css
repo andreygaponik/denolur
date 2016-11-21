@@ -1,0 +1,359 @@
+a{
+	color:#b5000f;
+}
+
+input{
+	border: 1px solid black;
+	background-color: red;
+}
+
+.grey-14{
+	font-family: 'proxima_nova_light';
+	color: #4d4c4c;
+	font-size: 0.875em;
+}
+
+.dot {
+    text-decoration: none;
+    border-bottom: 1px dashed #4d4c4c;
+}
+
+.fl-right{
+	float:right;
+	margin:0px;
+	margin-left:20px;
+	margin-top:10px;
+}
+   
+.menu-font{
+	font-family: 'proxima_nova_light';
+	font-size: 1.125em;
+}
+
+.line{
+	width:200px;
+	height:2px;
+	background-color: white;
+}
+
+.line-red{
+	width:200px;
+	height:2px;
+	background-color: #b5000f;
+}
+
+.line-red-2{
+	width:200px;
+	margin:auto;
+	height:2px;
+	background-color: #b5000f;
+	margin-top:100px;
+}
+
+.line-red-2-a{
+	width:200px;
+	margin:auto;
+	height:2px;
+	background-color: #b5000f;
+}
+
+.line-2{
+	width:80%;
+	margin-left:10%;
+	height:2px;
+	background-color: white;
+}
+
+.line-3{
+	width:100%;
+	height:1px;
+	background-color: #4d4c4c;
+}
+
+.line-4{
+	width:80%;
+	margin-left:10%;
+	height:1px;
+	background-color: #b5000f;
+}
+
+.line-red-5{
+	width:100%;
+	margin:auto;
+	height:2px;
+	background-color: #b5000f;
+	margin-top:120px;
+}
+
+.f-title{
+	font-family: 'proxima_nova_light';
+	font-size: 3.125em;
+}
+
+.f-title-2{
+	font-family: 'proxima_nova_light';
+	font-size: 2.5em;
+}
+
+.s-title{
+	font-family: 'proxima_nova_light';
+	font-size: 1.25em;
+}
+
+.btn-title{
+	border: 1px solid white;
+}
+
+.btn-title-2{
+	border: 1px solid black;	
+	width:100%;
+}
+
+.stamp{
+	position:absolute;
+	top:0px;
+	right:0px;
+	z-index:100;
+}
+
+.stamp2{
+	position:absolute;
+	bottom:0px;
+	right:0px;
+	z-index:100;
+}
+
+
+.roofs{
+	position:absolute;
+	width:50%;
+	height:80px;
+	bottom:0px;
+	right:0px;
+	z-index:100;
+	background: url(../img/roof.png)repeat-x;
+}
+
+.roofs-2{
+	position:absolute;
+	width:100%;
+	height:80px;
+	bottom:0px;
+	right:0px;
+	z-index:100;
+	background: url(../img/roof.png)repeat-x;
+}
+
+.sect-3{
+	position:relative;
+	margin:0px;
+	padding-bottom:100px;
+}
+
+.sect-4{
+	width:100%;
+	min-height:530px;
+	margin-top:0px;
+}
+
+.roofs-s1{
+	position:absolute;
+	width:50%;
+	height:80px;
+	bottom:0px;
+	right:0px;
+	z-index:100;
+	background: url(../img/roof2.png)repeat-x;
+}
+
+.roofs-s2{
+	position:absolute;
+	width:100%;
+	height:80px;
+	bottom:0px;
+	right:0px;
+	z-index:100;
+	background: url(../img/roof2.png)repeat-x;
+}
+
+.nav-c{
+	margin:0px;
+	padding:0px;
+	width:25%;
+	float:left;
+}
+
+.zagol{
+	font-family: 'proxima_nova_light';
+	font-size: 2.5em;
+	color:black;
+	margin-top:100px;
+}
+
+.zagol-2{
+	font-family: 'proxima_nova_light';
+	font-size: 2.5em;
+	color:black;
+}
+
+.podp-1{
+	font-family: 'proxima_nova_light';
+	font-size: 1.1875em;
+	color:#4d4c4c;
+	margin-top: 18px;
+}
+
+.sect-2{
+	margin-top: 50px;
+	width: 100%;
+	min-height: 530px;
+}
+
+.sect-2-dym{
+	margin-top:100px;
+	width:100%;
+	min-height:330px;
+}
+
+.tt-line-2{
+	font-family: 'proxima_nova_light';
+	font-size: 2.8125em;
+	color:black;
+}
+
+.tt-line-3{
+	font-family: 'proxima_nova_light';
+	font-size: 2.5em;
+	color:black;
+}
+
+.ff2{
+position: absolute;
+left:50%;
+width:50%;
+height:530px;
+background: url(../img/fon2.png)no-repeat;
+}
+
+.ff2-a{
+position: absolute;
+left:50%;
+width:50%;
+height:530px;
+background: url(../img/about1.png)no-repeat;
+}
+
+.ff3{
+position: absolute;
+left:0;
+width:50%;
+height:530px;
+background: url(../img/fon3.png)no-repeat;
+background-position:right;
+}
+
+.ff3-a{
+position: absolute;
+left:0;
+width:50%;
+height:530px;
+background: url(../img/about2.png)no-repeat;
+background-position:right;
+}
+
+
+.border-grey{
+	border:1px solid #eaeaea;
+	margin:5px;
+	padding:10px;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+.input-m{
+	background-color:#eaeaea !important;
+	border: none !important;
+}
+
+.btn-title-3{
+	height: 45px;
+	padding-top:5px;
+}
+
+.footer-copyright{
+	border-top:1px solid white;
+}
+
+.dym-fon2{
+	background: url(../img/dym-fon2.jpg);
+	background-size: cover;
+    background-position: center;
+}
+
+.dym-fon3{
+	background: url(../img/dym-fon3.jpg);
+	background-size: cover;
+    background-position: center;
+	position:relative;
+}
+
+.vent-fon2{
+	background: url(../img/vent-fon2.jpg);
+	background-size: cover;
+    background-position: center;
+	position:relative;
+}
+
+.number-img{
+	width:50px;
+	height:50px;
+	position:relative;
+	top:-50px;
+	margin-bottom:-50px;
+	background-color:rgba(0,0,0,0.5);
+}
+
+.number-text{
+	position:relative;
+	padding:0px;
+	margin:0px;
+	font-weight:300;
+}
+
+.title-vent{
+	position: absolute;
+	top:200px;
+	left:15%;
+	z-index:100;
+	font-family: 'proxima_nova_light';
+	font-size: 3.125em;
+}
+
+.fixed-menu{
+	position:fixed;
+	z-index:1000;
+	width:100%;
+	background-color: white;
+}
+
+.btn, .btn-large, .btn-flat {
+    text-transform: none !important;
+}	
+.carousel {
+	margin-top: 50px;
+	/*height: 500px;*/
+}
+.carousel .carousel-item {
+	width: 400px;
+}
+
+.denolur-video-wrapper {
+    width: 70%;
+    margin: 20px auto;
+}
+
+@media (max-width: 500px) {
+    .denolur-video-wrapper {
+        width: 100%;
+    }
+}
